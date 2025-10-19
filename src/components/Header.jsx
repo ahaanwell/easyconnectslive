@@ -14,6 +14,7 @@ import {
   Shield,
   Sparkles
 } from 'lucide-react'
+import Link from 'next/link'
 import { useState, useEffect } from 'react'
 
 export default function Header() {
@@ -71,11 +72,11 @@ export default function Header() {
         <nav className="max-w-7xl mx-auto px-6 py-2">
           <div className="flex items-center justify-between">
             {/* Logo */}
-            <a href="/" className="flex items-center gap-3 group">
+            <Link href="/" className="flex items-center gap-3 group">
               <span className="text-3xl font-extrabold bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
                 NOWSTART
               </span>
-            </a>
+            </Link>
 
             {/* Desktop Navigation */}
             <div className="hidden lg:flex items-center gap-8">
@@ -86,7 +87,7 @@ export default function Header() {
                   onMouseEnter={() => link.dropdown && setActiveDropdown(i)}
                   onMouseLeave={() => link.dropdown && setActiveDropdown(null)}
                 >
-                  <a
+                  <Link
                     href={link.href}
                     className="flex items-center gap-1 text-sm font-semibold text-slate-700 hover:text-blue-600 transition-colors group"
                   >
@@ -97,7 +98,7 @@ export default function Header() {
                       }`} />
                     )}
                     <span className="absolute -bottom-2 left-0 w-0 h-0.5 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 group-hover:w-full transition-all duration-300"></span>
-                  </a>
+                  </Link>
 
                   {/* Dropdown Menu */}
                   {link.dropdown && activeDropdown === i && (
@@ -107,7 +108,7 @@ export default function Header() {
                         <div className="relative bg-white rounded-2xl shadow-2xl border border-slate-200 overflow-hidden">
                           <div className="p-2">
                             {link.dropdown.map((item, idx) => (
-                              <a
+                              <Link
                                 key={idx}
                                 href={item.href}
                                 className="flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-gradient-to-r hover:from-blue-50 hover:to-purple-50 transition-all group/item"
@@ -118,7 +119,7 @@ export default function Header() {
                                 <span className="text-sm font-semibold text-slate-700 group-hover/item:text-blue-600 transition-colors">
                                   {item.name}
                                 </span>
-                              </a>
+                              </Link>
                             ))}
                           </div>
                         </div>
@@ -155,7 +156,7 @@ export default function Header() {
                           {userMenuItems.map((item, idx) => (
                             <div key={idx}>
                               {item.divider && <div className="h-px bg-slate-200 my-2"></div>}
-                              <a
+                              <Link
                                 href={item.href}
                                 className="flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-slate-50 transition-all group/item"
                               >
@@ -163,7 +164,7 @@ export default function Header() {
                                 <span className="text-sm font-semibold text-slate-700 group-hover/item:text-blue-600 transition-colors">
                                   {item.name}
                                 </span>
-                              </a>
+                              </Link>
                             </div>
                           ))}
                         </div>
@@ -205,7 +206,7 @@ export default function Header() {
               {/* Mobile Navigation Links */}
               {navLinks.map((link, i) => (
                 <div key={i}>
-                  <a
+                  <Link
                     href={link.href}
                     className="flex items-center justify-between px-4 py-3 rounded-xl hover:bg-gradient-to-r hover:from-blue-50 hover:to-purple-50 transition-all group"
                     onClick={() => !link.dropdown && setIsMobileMenuOpen(false)}
@@ -216,13 +217,13 @@ export default function Header() {
                     {link.dropdown && (
                       <ChevronDown className="w-4 h-4 text-slate-500" />
                     )}
-                  </a>
+                  </Link>
                   
                   {/* Mobile Dropdown */}
                   {link.dropdown && (
                     <div className="ml-4 mt-2 space-y-2">
                       {link.dropdown.map((item, idx) => (
-                        <a
+                        <Link
                           key={idx}
                           href={item.href}
                           className="flex items-center gap-3 px-4 py-2 rounded-lg hover:bg-slate-50 transition-all"
@@ -230,7 +231,7 @@ export default function Header() {
                         >
                           <item.icon className="w-4 h-4 text-slate-500" />
                           <span className="text-sm text-slate-600">{item.name}</span>
-                        </a>
+                        </Link>
                       ))}
                     </div>
                   )}
