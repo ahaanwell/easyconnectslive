@@ -29,8 +29,8 @@ export default function Hero() {
       {/* Animated background */}
       <div className="absolute inset-0 opacity-30">
         <div className="absolute top-0 -left-4 w-96 h-96 bg-blue-500 rounded-full mix-blend-multiply filter blur-3xl animate-pulse"></div>
-        <div className="absolute top-0 -right-4 w-96 h-96 bg-cyan-500 rounded-full mix-blend-multiply filter blur-3xl animate-pulse" style={{ animationDelay: '1s' }}></div>
-        <div className="absolute -bottom-8 left-20 w-96 h-96 bg-purple-500 rounded-full mix-blend-multiply filter blur-3xl animate-pulse" style={{ animationDelay: '2s' }}></div>
+        <div className="absolute top-0 -right-4 w-96 h-96 bg-purple-500 rounded-full mix-blend-multiply filter blur-3xl animate-pulse" style={{ animationDelay: '1s' }}></div>
+        <div className="absolute -bottom-8 left-20 w-96 h-96 bg-pink-500 rounded-full mix-blend-multiply filter blur-3xl animate-pulse" style={{ animationDelay: '2s' }}></div>
       </div>
 
       <div className="relative z-10 max-w-7xl mx-auto px-6 py-10">
@@ -49,7 +49,7 @@ export default function Hero() {
                 Supercharge
               </span>
               <br />
-              <span className="bg-gradient-to-r from-cyan-300 via-blue-400 to-purple-400 bg-clip-text text-transparent">
+              <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
                 Your PC
               </span>
             </h1>
@@ -60,14 +60,14 @@ export default function Hero() {
 
             {/* CTA Buttons */}
             <div className="flex flex-wrap gap-4">
-              <button className="group px-8 py-4 rounded-2xl bg-gradient-to-r from-blue-600 to-cyan-500 text-white font-bold shadow-2xl shadow-blue-500/50 hover:shadow-cyan-500/50 transition-all hover:scale-105">
+              <button className="group px-8 py-4 cursor-pointer rounded-2xl bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 text-white font-bold shadow-2xl shadow-blue-500/50 hover:shadow-cyan-500/50 transition-all hover:scale-105">
                 <span className="flex items-center gap-2">
                   <Download className="w-5 h-5" />
-                  Download Free
+                  Buy Now
                 </span>
               </button>
               
-              <button className="px-8 py-4 rounded-2xl border-2 border-slate-700 bg-slate-900/50 backdrop-blur-sm text-white font-bold hover:border-cyan-500 transition-all">
+              <button className="px-8 py-4 cursor-pointer rounded-2xl border-2 border-slate-700 bg-slate-900/50 backdrop-blur-sm text-white font-bold hover:border-cyan-500 transition-all">
                 <span className="flex items-center gap-2">
                   <PlayCircle className="w-5 h-5" />
                   Watch Demo
@@ -137,12 +137,12 @@ export default function Hero() {
                     <span className="font-bold text-cyan-400">98%</span>
                   </div>
                   <div className="h-3 rounded-full bg-slate-700/50 overflow-hidden">
-                    <div className="h-full bg-gradient-to-r from-blue-500 via-cyan-500 to-purple-500 rounded-full" style={{ width: '98%' }}></div>
+                    <div className="h-full bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 rounded-full" style={{ width: '98%' }}></div>
                   </div>
                 </div>
 
                 {/* Action Button */}
-                <button className="w-full py-3 rounded-xl bg-gradient-to-r from-blue-600 to-cyan-600 text-white text-sm font-semibold hover:scale-105 transition-transform">
+                <button className="w-full py-3 rounded-xl bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 text-white text-sm font-semibold hover:scale-105 transition-transform">
                   Quick Scan
                 </button>
               </div>

@@ -161,7 +161,7 @@ export default function FeatureGrid() {
                   </div>
 
                   {/* CTA Button */}
-                  <button className={`w-full py-3 px-4 rounded-xl bg-gradient-to-r ${feature.color} text-white font-semibold shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center gap-2 group/btn`}>
+                  <button className={`w-full py-3 px-4 cursor-pointer rounded-xl bg-gradient-to-r ${feature.color} text-white font-semibold shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center gap-2 group/btn`}>
                     <span>Explore Feature</span>
                     <ArrowRight className="w-4 h-4 group-hover/btn:translate-x-1 transition-transform" />
                   </button>

@@ -94,7 +94,7 @@ export default function TrustStrip() {
           
           <h2 className="text-4xl md:text-5xl font-black text-slate-900">
             Why Choose{' '}
-            <span className="bg-gradient-to-r from-blue-600 via-cyan-600 to-purple-600 bg-clip-text text-transparent">
+            <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
               Our Optimizer?
             </span>
           </h2>
@@ -153,8 +153,8 @@ export default function TrustStrip() {
                 {/* Active indicator */}
                 {activeCard === i && (
                   <div className="absolute -top-2 -right-2 w-12 h-12">
-                    <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-full animate-ping opacity-75"></div>
-                    <div className="relative bg-gradient-to-r from-blue-500 to-cyan-500 rounded-full w-12 h-12 flex items-center justify-center shadow-lg">
+                    <div className="absolute inset-0 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 rounded-full animate-ping opacity-75"></div>
+                    <div className="relative bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 rounded-full w-12 h-12 flex items-center justify-center shadow-lg">
                       <CheckCircle className="w-6 h-6 text-white" />
                     </div>
                   </div>

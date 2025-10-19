@@ -16,12 +16,8 @@ function Footer(){
             {/* Company Info */}
             <div className="lg:col-span-1">
               <div className="flex items-center mb-6">
-                <div className="w-10 h-10 bg-gradient-to-r from-blue-500 to-purple-500 rounded-xl flex items-center justify-center mr-3">
-                  <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
-                  </svg>
-                </div>
-                <div className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">NowStart Solution</div>
+                
+                <div className="text-2xl font-extrabold bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent ">NOWSTART</div>
               </div>
               <p className="text-gray-400 mb-6 leading-relaxed">
                 Professional PC optimization softwares for Windows. Clean up, speed up, and protect your computer with our advanced AI-powered tools.

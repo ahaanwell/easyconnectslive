@@ -106,7 +106,7 @@ export default function Testimonial() {
           
           <h2 className="text-4xl md:text-6xl font-black text-slate-900 leading-tight">
             Real Results,{' '}
-            <span className="bg-gradient-to-r from-yellow-600 via-orange-600 to-red-600 bg-clip-text text-transparent">
+            <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
               Real Stories
             </span>
           </h2>
@@ -122,8 +122,8 @@ export default function Testimonial() {
             <div key={i} className="relative group">
               <div className="absolute inset-0 bg-gradient-to-r from-yellow-200/50 to-orange-200/50 rounded-2xl blur-lg group-hover:blur-xl transition-all"></div>
               <div className="relative bg-white/90 backdrop-blur-sm border border-slate-200 rounded-2xl p-6 text-center shadow-lg hover:shadow-xl transition-all">
-                <stat.icon className="w-6 h-6 mx-auto mb-2 text-yellow-600" />
-                <div className="text-3xl font-black bg-gradient-to-r from-yellow-600 to-orange-600 bg-clip-text text-transparent mb-1">
+                <stat.icon className="w-6 h-6 mx-auto mb-2 text-pink-600" />
+                <div className="text-3xl font-black bg-gradient-to-r from-pink-600 to-orange-600 bg-clip-text text-transparent mb-1">
                   {stat.value}
                 </div>
                 <div className="text-sm text-slate-600 font-medium">{stat.label}</div>
@@ -221,13 +221,13 @@ export default function Testimonial() {
                 {/* Navigation arrows */}
                 <button
                   onClick={prevSlide}
-                  className="absolute left-4 top-1/2 -translate-y-1/2 w-12 h-12 rounded-full bg-white border-2 border-slate-200 shadow-lg hover:shadow-xl hover:scale-110 transition-all flex items-center justify-center group"
+                  className="absolute left-4 top-1/2 cursor-pointer -translate-y-1/2 w-12 h-12 rounded-full bg-white border-2 border-slate-200 shadow-lg hover:shadow-xl hover:scale-110 transition-all flex items-center justify-center group"
                 >
                   <ChevronLeft className="w-6 h-6 text-slate-700 group-hover:text-slate-900" />
                 </button>
                 <button
                   onClick={nextSlide}
-                  className="absolute right-4 top-1/2 -translate-y-1/2 w-12 h-12 rounded-full bg-white border-2 border-slate-200 shadow-lg hover:shadow-xl hover:scale-110 transition-all flex items-center justify-center group"
+                  className="absolute right-4 top-1/2 cursor-pointer -translate-y-1/2 w-12 h-12 rounded-full bg-white border-2 border-slate-200 shadow-lg hover:shadow-xl hover:scale-110 transition-all flex items-center justify-center group"
                 >
                   <ChevronRight className="w-6 h-6 text-slate-700 group-hover:text-slate-900" />
                 </button>
@@ -243,7 +243,7 @@ export default function Testimonial() {
                     setActiveSlide(i)
                     setIsAutoPlaying(false)
                   }}
-                  className="group relative"
+                  className="group relative cursor-pointer"
                 >
                   <div className={`w-2 h-2 rounded-full transition-all duration-300 ${
                     i === activeSlide 
@@ -265,7 +265,7 @@ export default function Testimonial() {
                 setActiveSlide(i)
                 setIsAutoPlaying(false)
               }}
-              className={`group relative transition-all duration-300 ${
+              className={`group relative transition-all duration-300 cursor-pointer ${
                 i === activeSlide ? 'scale-105' : 'hover:scale-105 opacity-60 hover:opacity-100'
               }`}
             >

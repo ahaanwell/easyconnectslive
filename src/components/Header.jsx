@@ -71,15 +71,9 @@ export default function Header() {
         <nav className="max-w-7xl mx-auto px-6 py-2">
           <div className="flex items-center justify-between">
             {/* Logo */}
-            <a href="#" className="flex items-center gap-3 group">
-              <div className="relative">
-                <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-xl blur-lg opacity-50 group-hover:opacity-75 transition-opacity"></div>
-                <div className="relative w-10 h-10 rounded-xl bg-gradient-to-r from-blue-500 to-purple-500 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
-                  <Zap className="w-5 h-5 text-white" strokeWidth={2.5} />
-                </div>
-              </div>
-              <span className="text-xl font-black text-slate-900 group-hover:bg-gradient-to-r group-hover:from-blue-600 group-hover:to-purple-600 group-hover:bg-clip-text group-hover:text-transparent transition-all">
-                PC Optimizer
+            <a href="/" className="flex items-center gap-3 group">
+              <span className="text-3xl font-extrabold bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
+                NOWSTART
               </span>
             </a>
 
@@ -102,14 +96,14 @@ export default function Header() {
                         activeDropdown === i ? 'rotate-180' : ''
                       }`} />
                     )}
-                    <span className="absolute -bottom-2 left-0 w-0 h-0.5 bg-gradient-to-r from-blue-600 to-purple-600 group-hover:w-full transition-all duration-300"></span>
+                    <span className="absolute -bottom-2 left-0 w-0 h-0.5 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 group-hover:w-full transition-all duration-300"></span>
                   </a>
 
                   {/* Dropdown Menu */}
                   {link.dropdown && activeDropdown === i && (
                     <div className="absolute top-full left-0 mt-4 w-56 animate-in fade-in slide-in-from-top-2 duration-200">
                       <div className="relative">
-                        <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-2xl blur-xl opacity-20"></div>
+                        <div className="absolute inset-0 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-600 rounded-2xl blur-xl opacity-20"></div>
                         <div className="relative bg-white rounded-2xl shadow-2xl border border-slate-200 overflow-hidden">
                           <div className="p-2">
                             {link.dropdown.map((item, idx) => (
@@ -118,7 +112,7 @@ export default function Header() {
                                 href={item.href}
                                 className="flex items-center gap-3 px-4 py-3 rounded-xl hover:bg-gradient-to-r hover:from-blue-50 hover:to-purple-50 transition-all group/item"
                               >
-                                <div className="w-8 h-8 rounded-lg bg-gradient-to-r from-blue-500 to-purple-500 flex items-center justify-center group-hover/item:scale-110 transition-transform">
+                                <div className="w-8 h-8 rounded-lg bg-gradient-to-r from-blue-500 via-purple-500 to-pink-600 flex items-center justify-center group-hover/item:scale-110 transition-transform">
                                   <item.icon className="w-4 h-4 text-white" />
                                 </div>
                                 <span className="text-sm font-semibold text-slate-700 group-hover/item:text-blue-600 transition-colors">
@@ -140,12 +134,12 @@ export default function Header() {
               <div className="relative">
                 <button
                   onClick={() => setIsUserMenuOpen(!isUserMenuOpen)}
-                  className="flex items-center gap-2 px-4 py-2 rounded-xl border-2 border-slate-200 hover:border-slate-300 transition-all group"
+                  className="flex cursor-pointer items-center gap-2 px-4 py-2 rounded-xl border-2 border-slate-200 hover:border-slate-300 transition-all group"
                 >
-                  <div className="w-8 h-8 rounded-full bg-gradient-to-r from-blue-500 to-purple-500 flex items-center justify-center">
+                  <div className="w-8 h-8 rounded-full bg-gradient-to-r from-blue-500 via-purple-500 to-pink-600 flex items-center justify-center">
                     <User className="w-4 h-4 text-white" />
                   </div>
-                  <span className="text-sm font-semibold text-slate-700">Account</span>
+                  <span className="text-sm font-semibold text-slate-700 ">Account</span>
                   <ChevronDown className={`w-4 h-4 text-slate-500 transition-transform ${
                     isUserMenuOpen ? 'rotate-180' : ''
                   }`} />
@@ -153,9 +147,9 @@ export default function Header() {
 
                 {/* User Dropdown */}
                 {isUserMenuOpen && (
-                  <div className="absolute top-full right-0 mt-2 w-56 animate-in fade-in slide-in-from-top-2 duration-200">
+                  <div className="absolute top-full  right-0 mt-2 w-56 animate-in fade-in slide-in-from-top-2 duration-200">
                     <div className="relative">
-                      <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-2xl blur-xl opacity-20"></div>
+                      <div className="absolute  inset-0 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-600 rounded-2xl blur-xl opacity-20"></div>
                       <div className="relative bg-white rounded-2xl shadow-2xl border border-slate-200 overflow-hidden">
                         <div className="p-2">
                           {userMenuItems.map((item, idx) => (
@@ -180,14 +174,13 @@ export default function Header() {
               </div>
 
               <a
-                href="#download"
-                className="group relative px-6 py-3 rounded-xl bg-gradient-to-r from-blue-600 to-purple-600 text-white font-bold shadow-lg shadow-blue-500/30 hover:shadow-xl hover:shadow-purple-500/40 hover:scale-105 transition-all overflow-hidden"
+                href="#contact"
+                className="group relative px-6 py-3 rounded-xl bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 text-white font-bold shadow-lg shadow-blue-500/30 hover:shadow-xl hover:shadow-purple-500/40 hover:scale-105 transition-all overflow-hidden"
               >
                 <span className="relative z-10 flex items-center gap-2">
-                  <Download className="w-4 h-4" />
-                  Download Free
+                  Contat Us
                 </span>
-                <div className="absolute inset-0 bg-gradient-to-r from-purple-600 to-blue-600 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+                <div className="absolute inset-0 bg-gradient-to-r from-purple-600 via-blue-600 to-pink-600 opacity-0 group-hover:opacity-100 transition-opacity"></div>
               </a>
             </div>
 

@@ -10,8 +10,8 @@ export default function Pricing() {
     {
       name: "Starter",
       tagline: "Perfect for beginners",
-      monthlyPrice: 0,
-      yearlyPrice: 0,
+      monthlyPrice: 2.99,
+      yearlyPrice: 15,
       icon: Leaf,
       gradient: "from-green-400 via-emerald-500 to-teal-500",
       features: [
@@ -22,7 +22,7 @@ export default function Pricing() {
         { text: "Advanced optimization", included: false },
         { text: "Real-time protection", included: false },
       ],
-      cta: "Start Free",
+      cta: "Buy Now",
     },
     {
       name: "Professional",
@@ -30,7 +30,7 @@ export default function Pricing() {
       monthlyPrice: 4.99,
       yearlyPrice: 29,
       icon: Rocket,
-      gradient: "from-blue-500 via-cyan-500 to-indigo-500",
+      gradient: "from-blue-600 via-purple-600 to-pink-600",
       features: [
         { text: "Deep system optimization", included: true },
         { text: "Unlimited cleanup", included: true },
@@ -39,7 +39,7 @@ export default function Pricing() {
         { text: "24/7 priority support", included: true },
         { text: "1 PC license", included: true },
       ],
-      cta: "Start Free Trial",
+      cta: "Buy Now",
       highlight: true,
       badge: "Best Value",
     },
@@ -58,7 +58,7 @@ export default function Pricing() {
         { text: "Cloud backup (50GB)", included: true },
         { text: "Dedicated support", included: true },
       ],
-      cta: "Start Free Trial",
+      cta: "Buy Now",
       badge: "Premium",
     },
   ]
@@ -87,7 +87,7 @@ export default function Pricing() {
           </h2>
           
           <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-            Start free, upgrade anytime. No credit card required.
+            Buy Now Starter, upgrade anytime. No credit card required.
           </p>
         </div>
 
@@ -197,7 +197,7 @@ export default function Pricing() {
                   </div>
 
                   {/* CTA Button */}
-                  <button className={`w-full py-4 rounded-xl font-bold shadow-lg transition-all duration-300 flex items-center justify-center gap-2 group ${
+                  <button className={`w-full py-4 rounded-xl cursor-pointer font-bold shadow-lg transition-all duration-300 flex items-center justify-center gap-2 group ${
                     plan.highlight
                       ? `bg-gradient-to-r ${plan.gradient} text-white hover:shadow-xl hover:scale-105`
                       : 'bg-slate-100 text-slate-900 hover:bg-slate-200'
@@ -222,7 +222,7 @@ export default function Pricing() {
                 { icon: Star, text: "Free Updates" },
               ].map((item, i) => (
                 <div key={i} className="flex flex-col items-center text-center">
-                  <div className="w-12 h-12 rounded-full bg-gradient-to-r from-blue-500 to-purple-500 flex items-center justify-center mb-2 shadow-md">
+                  <div className="w-12 h-12 rounded-full bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 flex items-center justify-center mb-2 shadow-md">
                     <item.icon className="w-6 h-6 text-white" />
                   </div>
                   <span className="text-sm font-semibold text-slate-700">{item.text}</span>
