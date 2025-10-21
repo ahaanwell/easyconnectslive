@@ -39,7 +39,7 @@ export default function RefundPolicy() {
             Our policies are designed to protect your rights and ensure a trustworthy, respectful experience.
           </p>
           <p className="mt-4 text-sky-200 max-w-3xl mx-auto text-base sm:text-lg md:text-xl leading-relaxed">
-            Customers may apply for refunds at the RETURNS & EXCHANGES center of NowStart Solution (a wholly owned subsidiary of NowStart Solution) for any legitimate order-related issues.
+            Customers may apply for refunds at the RETURNS & EXCHANGES center of EasyPrints (a wholly owned subsidiary of EasyPrints) for any legitimate order-related issues.
           </p>
                     </div>
                 </div>
@@ -53,10 +53,10 @@ export default function RefundPolicy() {
                     <article className="prose prose-slate text-black max-w-none lg:prose-lg xl:prose-xl p-8">
           {/* Introduction */}
           <p className="mb-4 leading-relaxed">
-            Every customer is valuable to NowStart Solution, and the company strives to ensure that users enjoy its products and services. The functionality of trial versions is limited to help buyers make informed decisions and avoid purchasing incorrect products.
+            Every customer is valuable to EasyPrints, and the company strives to ensure that users enjoy its products and services. The functionality of trial versions is limited to help buyers make informed decisions and avoid purchasing incorrect products.
           </p>
           <p className="mb-4 leading-relaxed">
-            NowStart Solution offers a "try-before-you-buy" feature with a 14-day money-back guarantee on most products. Refunds are granted only under specified conditions and are unavailable after the guarantee period.
+            EasyPrints offers a "try-before-you-buy" feature with a 14-day money-back guarantee on most products. Refunds are granted only under specified conditions and are unavailable after the guarantee period.
           </p>
 
           {/* Section: Circumstances of No Refund */}
@@ -65,8 +65,8 @@ export default function RefundPolicy() {
           <h3 className="text-2xl sm:text-3xl font-semibold mt-6 mb-4">Non-Technical Circumstances</h3>
           <ul className="list-disc pl-6 space-y-2">
             <li>Failure to read the product description before purchase. Refunds are not provided if dissatisfaction arises from misunderstanding the product's features or functions. Exchanges may be allowed if the price difference does not exceed USD $20.</li>
-            <li>Refund requests related to credit card fraud or unauthorized payments must be addressed via the card issuer. NowStart Solution cannot cancel processed orders but may provide exchanges for alternative products. Subscription cancellations follow our Terms of Use.</li>
-            <li>Delayed registration code delivery within two hours post-purchase. Customers may contact the NowStart Solution Support Center for assistance.</li>
+            <li>Refund requests related to credit card fraud or unauthorized payments must be addressed via the card issuer. EasyPrints cannot cancel processed orders but may provide exchanges for alternative products. Subscription cancellations follow our Terms of Use.</li>
+            <li>Delayed registration code delivery within two hours post-purchase. Customers may contact the EasyPrints Support Center for assistance.</li>
             <li>Purchasing the wrong product immediately followed by acquiring the correct one elsewhere.</li>
             <li>Price differences for products between regions or companies.</li>
             <li>Partial bundle refunds are not possible through our payment processor; a full refund may be provided if a correct product is purchased separately.</li>
@@ -84,10 +84,10 @@ export default function RefundPolicy() {
 
           <h3 className="text-2xl sm:text-3xl font-semibold mt-6 mb-4">Non-Technical Circumstances</h3>
           <ul className="list-disc pl-6 space-y-2">
-            <li>Purchase of services like Registration Backup Service (RBS), Download Insurance Service, or Extended Download Service (EDS) without awareness that they can be canceled after purchase. NowStart Solution will assist in recovering costs via the payment platform.</li>
+            <li>Purchase of services like Registration Backup Service (RBS), Download Insurance Service, or Extended Download Service (EDS) without awareness that they can be canceled after purchase. EasyPrints will assist in recovering costs via the payment platform.</li>
             <li>Exchanging a program by purchasing the correct one, after which the original purchase cost is refunded.</li>
-            <li>Duplicate purchases or similar product purchases. NowStart Solution may exchange one product or refund one purchase.</li>
-            <li>No response from NowStart Solution Support within 24 hours, registration code not received, and the customer no longer needs the product. Refund will be issued.</li>
+            <li>Duplicate purchases or similar product purchases. EasyPrints may exchange one product or refund one purchase.</li>
+            <li>No response from EasyPrints Support within 24 hours, registration code not received, and the customer no longer needs the product. Refund will be issued.</li>
             <li>Purchasing alternative software due to technical errors. Product exchange or full refund may be issued.</li>
           </ul>
 

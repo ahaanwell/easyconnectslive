@@ -38,7 +38,7 @@ export default function TermsConditions() {
                         </h1>
                         <p className="mt-4 text-sky-100 max-w-3xl mx-auto text-base sm:text-lg md:text-xl leading-relaxed">
             Our policies are designed to protect every user's rights and ensure a
-            reliable, transparent, and trustworthy experience across all NowStart Solution services.
+            reliable, transparent, and trustworthy experience across all EasyPrints services.
           </p>
                     </div>
                 </div>
@@ -53,7 +53,7 @@ export default function TermsConditions() {
                     <article className="prose prose-slate max-w-none lg:prose-lg xl:prose-xl p-8 text-black">
 
           <h2 className="text-2xl sm:text-3xl font-semibold mt-8 mb-4">
-            NowStart Solution Service Terms and Conditions of Use
+            EasyPrints Service Terms and Conditions of Use
           </h2>
 
           <p className="mb-4 leading-relaxed">
@@ -61,12 +61,12 @@ export default function TermsConditions() {
           </p>
 
           <p className="mb-4 leading-relaxed">
-            By subscribing to or purchasing our services directly through our website or authorized partners, you acknowledge and agree to the following Terms and Conditions of Use and Service (collectively, the "Terms of Service"). This agreement forms a legally binding contract governing your access to and use of NowStart Solution services.
+            By subscribing to or purchasing our services directly through our website or authorized partners, you acknowledge and agree to the following Terms and Conditions of Use and Service (collectively, the "Terms of Service"). This agreement forms a legally binding contract governing your access to and use of EasyPrints services.
           </p>
 
           <h3 className="text-xl font-bold mt-6 mb-3">Please Read Carefully</h3>
           <p className="mb-4 leading-relaxed">
-            Welcome to <strong>NowStart Solution</strong>, a fully owned subsidiary of Sapphire Softech Solutions, doing business as (“we,” “our,” or “us”), headquartered at 14 West Second Street, Suite 108, Upland, CA 91786. Through our services, you can access:
+            Welcome to <strong>EasyPrints</strong>, a fully owned subsidiary of Sapphire Softech Solutions, doing business as (“we,” “our,” or “us”), headquartered at 14 West Second Street, Suite 108, Upland, CA 91786. Through our services, you can access:
           </p>
 
           <ul className="list-disc pl-6 space-y-2 mb-4">
@@ -76,21 +76,21 @@ export default function TermsConditions() {
           </ul>
 
           <p className="mb-4 leading-relaxed">
-            These Terms govern all interactions between you and NowStart Solution, including access to and use of our software, subscription-based services, support features, and all related materials, documentation, and content (collectively referred to as “Services”) provided via our official website at <a href="https://www.nowstart.co" className="text-sky-700 underline">https://www.nowstart.co/</a> or any associated subdomains, partner portals, or customer support centers.
+            These Terms govern all interactions between you and EasyPrints, including access to and use of our software, subscription-based services, support features, and all related materials, documentation, and content (collectively referred to as “Services”) provided via our official website at <a href="https://www.easyprintsnow.com" className="text-sky-700 underline">https://www.easyprintsnow.com/</a> or any associated subdomains, partner portals, or customer support centers.
           </p>
 
           <p className="mb-4 leading-relaxed">
-            Throughout these Terms, references to “NowStart Solution,” “NowStart Solution Service,” “Active Optimization Service,” “our service,” or “the service” all refer to the same subscription-based offerings.
+            Throughout these Terms, references to “EasyPrints,” “EasyPrints Service,” “Active Optimization Service,” “our service,” or “the service” all refer to the same subscription-based offerings.
           </p>
 
           <h3 className="text-xl font-bold mt-6 mb-3">Dispute Resolution and Arbitration</h3>
           <p className="mb-4 leading-relaxed">
-            By using our services, you agree that any dispute or claim arising from or relating to your NowStart Solution account or the use of our services will be resolved through binding arbitration, rather than in court, except for matters that qualify for small claims court.
+            By using our services, you agree that any dispute or claim arising from or relating to your EasyPrints account or the use of our services will be resolved through binding arbitration, rather than in court, except for matters that qualify for small claims court.
           </p>
 
           <h3 className="text-xl font-bold mt-6 mb-3">Linked Policies</h3>
           <p className="mb-4 leading-relaxed">
-            These Terms incorporate our <a href="https://www.nowstart.co/privacy-policy/" className="text-sky-700 underline">Privacy Policy</a> by reference. The Privacy Policy outlines how NowStart Solution collects, uses, and safeguards personal data, cookies, and other user-related information.
+            These Terms incorporate our <a href="https://www.easyprintsnow.com/privacy-policy/" className="text-sky-700 underline">Privacy Policy</a> by reference. The Privacy Policy outlines how EasyPrints collects, uses, and safeguards personal data, cookies, and other user-related information.
           </p>
 
           <h3 className="text-xl font-bold mt-6 mb-3">
@@ -98,25 +98,25 @@ export default function TermsConditions() {
           </h3>
 
           <p className="mb-4 leading-relaxed">
-            By accessing our website or using our services, you signify your acceptance of these Terms of Service. When you click “I Agree,” “I Consent,” or any similar button or indicator of consent, you authorize NowStart Solution to treat your action as a legally binding electronic signature. This has the same effect as a handwritten signature under applicable electronic records and signature laws.
+            By accessing our website or using our services, you signify your acceptance of these Terms of Service. When you click “I Agree,” “I Consent,” or any similar button or indicator of consent, you authorize EasyPrints to treat your action as a legally binding electronic signature. This has the same effect as a handwritten signature under applicable electronic records and signature laws.
           </p>
 
           <p className="mb-4 leading-relaxed">
-            You confirm your intention to transact electronically and acknowledge that all agreements and communications executed in this format are valid. You may withdraw your consent to conduct transactions electronically at any time by providing written notice to NowStart Solution. However, doing so will result in suspension or termination of access to our websites or services until alternative consent is granted through legally recognized means.
+            You confirm your intention to transact electronically and acknowledge that all agreements and communications executed in this format are valid. You may withdraw your consent to conduct transactions electronically at any time by providing written notice to EasyPrints. However, doing so will result in suspension or termination of access to our websites or services until alternative consent is granted through legally recognized means.
           </p>
 
           <h3 className="text-xl font-bold mt-6 mb-3">Revisions and Updates</h3>
           <p className="mb-4 leading-relaxed">
-            NowStart Solution reserves the right to modify or update these Terms of Service, including the Privacy Policy, at any time. Updated versions take effect immediately upon posting unless otherwise stated. Existing subscribers will receive at least 30 days’ notice before any major policy changes take effect.
+            EasyPrints reserves the right to modify or update these Terms of Service, including the Privacy Policy, at any time. Updated versions take effect immediately upon posting unless otherwise stated. Existing subscribers will receive at least 30 days’ notice before any major policy changes take effect.
           </p>
 
           <p className="mb-4 leading-relaxed">
-            It is your responsibility to review the posted Terms regularly. Continued use of NowStart Solution services after updates indicates your acceptance of the revised terms and your agreement to comply with them.
+            It is your responsibility to review the posted Terms regularly. Continued use of EasyPrints services after updates indicates your acceptance of the revised terms and your agreement to comply with them.
           </p>
 
           <h3 className="text-xl font-bold mt-6 mb-3">Electronic Communications and Notifications</h3>
           <p className="mb-4 leading-relaxed">
-            By using NowStart Solution services, you consent to receiving electronic communications regarding your account. These may include emails, account notifications, or posted messages within your NowStart Solution account dashboard. Such communications cover essential topics such as payment confirmations, password resets, billing updates, and service-related alerts.
+            By using EasyPrints services, you consent to receiving electronic communications regarding your account. These may include emails, account notifications, or posted messages within your EasyPrints account dashboard. Such communications cover essential topics such as payment confirmations, password resets, billing updates, and service-related alerts.
           </p>
 
           <p className="mb-4 leading-relaxed">
@@ -124,11 +124,11 @@ export default function TermsConditions() {
           </p>
 
           <p className="mb-4 leading-relaxed">
-            Additionally, you consent to receive optional promotional and informational communications such as product announcements, offers, surveys, and updates about new NowStart Solution features. You also agree to receive occasional phone calls related to scheduled technical support sessions or billing inquiries, as required.
+            Additionally, you consent to receive optional promotional and informational communications such as product announcements, offers, surveys, and updates about new EasyPrints features. You also agree to receive occasional phone calls related to scheduled technical support sessions or billing inquiries, as required.
           </p>
 
           <p className="mb-4 leading-relaxed">
-            For full details regarding our communications practices, please refer to our <a href="https://www.nowstart.co/privacy-policy/" className="text-sky-700 underline">Privacy Policy</a>.
+            For full details regarding our communications practices, please refer to our <a href="https://www.easyprintsnow.com/privacy-policy/" className="text-sky-700 underline">Privacy Policy</a>.
           </p>
 
           <h1 className="text-3xl font-bold text-gray-900 mb-6">
@@ -143,7 +143,7 @@ export default function TermsConditions() {
 
           <p>To set up your account:</p>
           <ul className="list-disc ml-6 space-y-1">
-            <li>Complete the online order forms provided by NowStart Solution.</li>
+            <li>Complete the online order forms provided by EasyPrints.</li>
             <li>Follow the provided instructions to submit your subscription request.</li>
             <li>Confirm that you are at least 18 years of age.</li>
             <li>Create a unique username and password.</li>
@@ -157,7 +157,7 @@ export default function TermsConditions() {
 
           <h2 className="text-2xl font-semibold mt-6">Account Activation</h2>
           <p>
-            NowStart Solution reserves the right to deny account activation at its sole discretion, without providing a reason. Upon successful activation, you will receive a confirmation email. Once activation steps are complete, you will be able to log in and access the services, including features applicable to your subscription level.
+            EasyPrints reserves the right to deny account activation at its sole discretion, without providing a reason. Upon successful activation, you will receive a confirmation email. Once activation steps are complete, you will be able to log in and access the services, including features applicable to your subscription level.
           </p>
 
           <p>By activating your account, you confirm:</p>
@@ -177,8 +177,8 @@ export default function TermsConditions() {
           <ul className="list-disc ml-6 space-y-1">
             <li>You are responsible for maintaining the confidentiality of your account password.</li>
             <li>You are liable for all activity under your account, whether authorized or not.</li>
-            <li>If your password is lost, stolen, or compromised, notify NowStart Solution immediately.</li>
-            <li>You will only have access to services and areas that NowStart Solution has authorized.</li>
+            <li>If your password is lost, stolen, or compromised, notify EasyPrints immediately.</li>
+            <li>You will only have access to services and areas that EasyPrints has authorized.</li>
           </ul>
 
           <h2 className="text-2xl font-semibold mt-6">Account Information Requirements</h2>
@@ -188,15 +188,15 @@ export default function TermsConditions() {
             <li>Promptly update this information as needed.</li>
           </ul>
           <p>
-            Providing false, outdated, or incomplete information—or if NowStart Solution suspects such—is grounds for account suspension or termination. This may also result in denial of current or future access to the services or website.
+            Providing false, outdated, or incomplete information—or if EasyPrints suspects such—is grounds for account suspension or termination. This may also result in denial of current or future access to the services or website.
           </p>
 
           <h2 className="text-2xl font-semibold mt-6">
-            Accessing Services Through the NowStart Solution Client
+            Accessing Services Through the EasyPrints Client
           </h2>
           <h3 className="text-xl font-semibold mt-4">Client Overview</h3>
           <p>
-            We offer the NowStart Solution client applet ("the client") as a tool to enhance your experience by streamlining access to our advisory services.
+            We offer the EasyPrints client applet ("the client") as a tool to enhance your experience by streamlining access to our advisory services.
           </p>
           <ul className="list-disc ml-6 space-y-1">
             <li>The client performs initial system analysis (e.g., internet speed, security settings, drivers).</li>
@@ -210,7 +210,7 @@ export default function TermsConditions() {
             You may deactivate the client at any time using your operating system’s standard procedures:
           </p>
           <p>
-            <strong>Windows:</strong> Go to Control Panel &gt; Add/Remove Programs, select “NowStart Solution,” and click “Change/Remove.”
+            <strong>Windows:</strong> Go to Control Panel &gt; Add/Remove Programs, select “EasyPrints,” and click “Change/Remove.”
           </p>
 
           <p>
@@ -220,19 +220,19 @@ export default function TermsConditions() {
           <p>
             <strong>Windows XP:</strong>
             <br />
-            Downloads – C:\Documents and Settings\*username*\My Documents\Downloads\NowStart Solution
+            Downloads – C:\Documents and Settings\*username*\My Documents\Downloads\EasyPrints
             <br />
-            License – C:\Documents and Settings\All Users\Application Data\NowStart Solution\NowStart Solution\dd.lic
+            License – C:\Documents and Settings\All Users\Application Data\EasyPrints\EasyPrints\dd.lic
           </p>
 
           <p className="w-full overflow-x-scroll">
             <strong>Windows Vista and above:</strong>
             <br />
             <br />
-            Downloads –  C:\Users\*username*\Downloads\NowStart Solution
+            Downloads –  C:\Users\*username*\Downloads\EasyPrints
             <br />
             <br />
-            License –  C:\ProgramData\NowStart Solution\NowStart Solution\dd.lic
+            License –  C:\ProgramData\EasyPrints\EasyPrints\dd.lic
           </p>
 
           <p>
@@ -262,8 +262,8 @@ export default function TermsConditions() {
           <p>The client is regularly updated to support ongoing service delivery. By using our services, you:</p>
           <ul className="list-disc ml-6 space-y-1">
             <li>Consent to receive automatic client updates without additional notice.</li>
-            <li>Understand that NowStart Solution does not guarantee compatibility with your devices.</li>
-            <li>Acknowledge that NowStart Solution is not liable for device performance or functionality issues.</li>
+            <li>Understand that EasyPrints does not guarantee compatibility with your devices.</li>
+            <li>Acknowledge that EasyPrints is not liable for device performance or functionality issues.</li>
             <li>Agree to contact your device manufacturer or vendor for hardware-related issues.</li>
           </ul>
 
@@ -273,7 +273,7 @@ export default function TermsConditions() {
 
           <h2 className="text-2xl font-semibold mt-6">Termination and Restrictions</h2>
           <p>
-            NowStart Solution reserves the right to suspend or terminate your account, without notice or compensation, if:
+            EasyPrints reserves the right to suspend or terminate your account, without notice or compensation, if:
           </p>
           <ul className="list-disc ml-6 space-y-1">
             <li>You violate any Terms of Service.</li>
@@ -301,11 +301,11 @@ export default function TermsConditions() {
           </ul>
 
           <p>
-            You must also have your own internet connection. All supported hardware (as defined below) must be connected to a high-speed internet connection for the services to function properly. Dial-up and satellite internet connections are not supported and do not meet the minimum requirements for remote access through NowStart Solution.
+            You must also have your own internet connection. All supported hardware (as defined below) must be connected to a high-speed internet connection for the services to function properly. Dial-up and satellite internet connections are not supported and do not meet the minimum requirements for remote access through EasyPrints.
           </p>
 
           <p>
-            NowStart Solution aims to make support services available 12 hours a day, 7 days a week, excluding recognized legal holidays. However, service availability may be temporarily interrupted at times. For support requests that fall outside the scope of services defined in these Terms of Service, NowStart Solution may offer additional support via phone agents for an extra fee.
+            EasyPrints aims to make support services available 12 hours a day, 7 days a week, excluding recognized legal holidays. However, service availability may be temporarily interrupted at times. For support requests that fall outside the scope of services defined in these Terms of Service, EasyPrints may offer additional support via phone agents for an extra fee.
           </p>
 
           <p>
@@ -326,7 +326,7 @@ export default function TermsConditions() {
           </ul>
 
           <p>
-            We assist with the setup, configuration, operation, and use of NowStart Solution software, along with support for major internet browsers like Firefox®, Google Chrome™, and Microsoft Edge®. Assistance is also provided for email client setup and configuration, system performance enhancements (including for gaming or other applications), configuration, application usage, and troubleshooting.
+            We assist with the setup, configuration, operation, and use of EasyPrints software, along with support for major internet browsers like Firefox®, Google Chrome™, and Microsoft Edge®. Assistance is also provided for email client setup and configuration, system performance enhancements (including for gaming or other applications), configuration, application usage, and troubleshooting.
           </p>
 
           <p>We support driver setup for any devices connected to your supported PC, including:</p>
@@ -368,7 +368,7 @@ export default function TermsConditions() {
             <li>Offering alternatives such as referring you to the device manufacturer for further assistance</li>
           </ul>
 
-          <h2 className="text-2xl font-semibold mt-6">Exclusions from NowStart Solution Signature Service</h2>
+          <h2 className="text-2xl font-semibold mt-6">Exclusions from EasyPrints Signature Service</h2>
           <p>The following are not included in our support services:</p>
           <ul className="list-disc ml-6 space-y-1">
             <li>Support for non-Windows® operating systems or applications</li>
@@ -385,7 +385,7 @@ export default function TermsConditions() {
                 <li>Burning commercially available movie DVDs</li>
                 <li>Setting up dual-boot operating systems</li>
                 <li>Cracking protected files</li>
-                <li>Any illegal activities as determined by NowStart Solution</li>
+                <li>Any illegal activities as determined by EasyPrints</li>
               </ul>
             </li>
             <li>We also do not support:</li>
@@ -397,7 +397,7 @@ export default function TermsConditions() {
           </ul>
 
           <h2 className="text-2xl font-semibold mt-6">Limitations of Responsibility</h2>
-          <p>NowStart Solution is not responsible for the following:</p>
+          <p>EasyPrints is not responsible for the following:</p>
           <ul className="list-disc ml-6 space-y-1">
             <li>Data loss or corruption</li>
             <li>Hardware replacement</li>
@@ -405,14 +405,14 @@ export default function TermsConditions() {
             <li>Older versions of supported hardware (support offered only on a commercially reasonable basis)</li>
             <li>Freeware or shareware, unless specifically stated otherwise</li>
             <li>Remote or on-site training, scripting, programming, database design, or web development</li>
-            <li>Providing product keys, except for NowStart Solution Signature Service software</li>
+            <li>Providing product keys, except for EasyPrints Signature Service software</li>
             <li>Data or software recovery (offered only on a commercially reasonable basis)</li>
             <li>Issues caused by intentional damage</li>
             <li>Any actions or services not explicitly described in this service documentation</li>
           </ul>
 
           <p>
-            You can also access self-help content and resolve issues related to supported hardware or billing by contacting us via email at <a href="mailto:support@nowstart.co" className="text-blue-600 underline">support@nowstart.co</a>, or through our Sites Portal and Email Access Service.
+            You can also access self-help content and resolve issues related to supported hardware or billing by contacting us via email at <a href="mailto:support@easyprintsnow.com" className="text-blue-600 underline">support@easyprintsnow.com</a>, or through our Sites Portal and Email Access Service.
           </p>
           </section>
 
@@ -423,7 +423,7 @@ export default function TermsConditions() {
         <section className="space-y-5 text-gray-800 leading-relaxed mt-4">
           <h2 className="text-2xl font-semibold">Ongoing Subscriptions:</h2>
           <p>
-            Your NowStart Solution subscription will automatically renew either monthly or annually—depending on your initial purchase—unless you cancel it or we terminate it. If your subscription started with a reduced introductory price, you will be charged the full subscription rate once the introductory period ends, as disclosed at the time of purchase. To use the Services, you must have internet access and provide a valid, accepted, and current payment method (referred to as "Payment Method"), which you may update at any time. We will charge your selected subscription fee to your Payment Method based on the term you chose. To avoid being charged for the next subscription term, you must cancel before the auto-renewal date, according to the term you initially selected.
+            Your EasyPrints subscription will automatically renew either monthly or annually—depending on your initial purchase—unless you cancel it or we terminate it. If your subscription started with a reduced introductory price, you will be charged the full subscription rate once the introductory period ends, as disclosed at the time of purchase. To use the Services, you must have internet access and provide a valid, accepted, and current payment method (referred to as "Payment Method"), which you may update at any time. We will charge your selected subscription fee to your Payment Method based on the term you chose. To avoid being charged for the next subscription term, you must cancel before the auto-renewal date, according to the term you initially selected.
           </p>
 
           <p>
@@ -432,12 +432,12 @@ export default function TermsConditions() {
 
           <h2 className="text-2xl font-semibold">Different Subscription Plans:</h2>
           <p>
-            We may offer various subscription plans, including promotional offers or plans with unique terms and conditions. Any significant differences from the terms outlined in these Terms of Service will be clearly disclosed to you during sign-up, in your order, or through our communications. You can access specific details about your NowStart Solution subscription by visiting our website and clicking on the “Your Account” link. We reserve the right to modify, discontinue, or otherwise change the subscription plans at our sole discretion.
+            We may offer various subscription plans, including promotional offers or plans with unique terms and conditions. Any significant differences from the terms outlined in these Terms of Service will be clearly disclosed to you during sign-up, in your order, or through our communications. You can access specific details about your EasyPrints subscription by visiting our website and clicking on the “Your Account” link. We reserve the right to modify, discontinue, or otherwise change the subscription plans at our sole discretion.
           </p>
 
           <h2 className="text-2xl font-semibold">Recurring Billing:</h2>
           <p>
-            By starting your NowStart Solution subscription and providing a Payment Method, you authorize us to charge your Payment Method at the then-current rate—monthly or annually depending on your selected term—and to include any other charges related to your use of NowStart Solution. You agree that the amount charged may vary from term to term due to factors such as promotional offers, redeemed gift cards or promo codes, or plan upgrades. You authorize us to charge your Payment Method for any such changes, which may be billed as one or multiple charges per billing cycle.
+            By starting your EasyPrints subscription and providing a Payment Method, you authorize us to charge your Payment Method at the then-current rate—monthly or annually depending on your selected term—and to include any other charges related to your use of EasyPrints. You agree that the amount charged may vary from term to term due to factors such as promotional offers, redeemed gift cards or promo codes, or plan upgrades. You authorize us to charge your Payment Method for any such changes, which may be billed as one or multiple charges per billing cycle.
           </p>
 
           <h2 className="text-2xl font-semibold">Price Changes:</h2>
@@ -457,7 +457,7 @@ export default function TermsConditions() {
 
           <h2 className="text-2xl font-semibold">Cancellation:</h2>
           <p>
-            You may cancel your NowStart Solution subscription at any time. Access to the service will continue until the end of your current billing cycle. WE DO NOT ISSUE REFUNDS OR CREDITS FOR PARTIAL PERIODS. To cancel, go to the “Your Account” page on our website and follow the cancellation steps. Your account will automatically close at the end of your billing period. For specific closure dates, click “View billing details” in your account settings.
+            You may cancel your EasyPrints subscription at any time. Access to the service will continue until the end of your current billing cycle. WE DO NOT ISSUE REFUNDS OR CREDITS FOR PARTIAL PERIODS. To cancel, go to the “Your Account” page on our website and follow the cancellation steps. Your account will automatically close at the end of your billing period. For specific closure dates, click “View billing details” in your account settings.
           </p>
 
           <h2 className="text-2xl font-semibold">Subscriber Eligibility and Use of Services</h2>
@@ -466,7 +466,7 @@ export default function TermsConditions() {
           </p>
 
           <p>
-            You are granted a limited, non-exclusive, non-transferable license to use the NowStart Solution Client and Services solely for personal, non-commercial purposes during your subscription term. This license includes access to updates, optimizations, and service improvements. You do not receive any additional rights or ownership beyond this limited license.
+            You are granted a limited, non-exclusive, non-transferable license to use the EasyPrints Client and Services solely for personal, non-commercial purposes during your subscription term. This license includes access to updates, optimizations, and service improvements. You do not receive any additional rights or ownership beyond this limited license.
           </p>
 
           <p>
@@ -478,13 +478,13 @@ export default function TermsConditions() {
           </p>
 
           <ul className="list-disc ml-6 space-y-1">
-            <li>Archive, download (except temporary caching), reproduce, distribute, modify, display, perform, publish, license, or create derivative works based on NowStart Solution’s content or services.</li>
+            <li>Archive, download (except temporary caching), reproduce, distribute, modify, display, perform, publish, license, or create derivative works based on EasyPrints’s content or services.</li>
             <li>Circumvent, remove, or tamper with any content protection features.</li>
             <li>Use automated tools like robots, spiders, or scrapers.</li>
             <li>Reverse-engineer or disassemble any software used in the Services.</li>
             <li>Modify the Service’s code or use data mining tools.</li>
             <li>Upload or transmit malicious software, including viruses.</li>
-            <li>Use the Services to create competing products or to copy NowStart Solution’s features or design.</li>
+            <li>Use the Services to create competing products or to copy EasyPrints’s features or design.</li>
             <li>Share, resell, or lease the Services to third parties.</li>
             <li>Store or transmit illegal, infringing, or privacy-violating content.</li>
             <li>Interfere with Service performance or data integrity.</li>
@@ -492,12 +492,12 @@ export default function TermsConditions() {
           </ul>
 
           <p>
-            If you violate these Terms, NowStart Solution may issue warnings, suspend services, or terminate your account at its sole discretion.
+            If you violate these Terms, EasyPrints may issue warnings, suspend services, or terminate your account at its sole discretion.
           </p>
 
           <h2 className="text-2xl font-semibold">Passwords and Account Access</h2>
           <p>
-            The person who creates the NowStart Solution account and provides the Payment Method is considered the Account Owner, who maintains control over the account through their password. To maintain exclusive control, you should not share your password or Payment Method details (e.g., card’s last four digits or PayPal email) with others.
+            The person who creates the EasyPrints account and provides the Payment Method is considered the Account Owner, who maintains control over the account through their password. To maintain exclusive control, you should not share your password or Payment Method details (e.g., card’s last four digits or PayPal email) with others.
           </p>
 
           <p>
@@ -505,20 +505,20 @@ export default function TermsConditions() {
           </p>
 
           <p>
-            We use technology that helps recognize you as the Account Owner to facilitate seamless access, meaning you may not need to re-enter your password on NowStart Solution-ready devices or our website.
+            We use technology that helps recognize you as the Account Owner to facilitate seamless access, meaning you may not need to re-enter your password on EasyPrints-ready devices or our website.
           </p>
 
           <p>
-            Be cautious of any request asking for your Payment Method or account information. These may be attempts at identity theft. Always manage your account directly through the official NowStart Solution site. NowStart Solution may suspend accounts at any time to protect itself and its partners from suspected fraud. Refunds or credits will not be issued for accounts suspended due to such activity.
+            Be cautious of any request asking for your Payment Method or account information. These may be attempts at identity theft. Always manage your account directly through the official EasyPrints site. EasyPrints may suspend accounts at any time to protect itself and its partners from suspected fraud. Refunds or credits will not be issued for accounts suspended due to such activity.
           </p>
 
           <h2 className="text-2xl font-semibold">Disclaimers of Warranties and Limitations of Liability</h2>
           <p>
-            NowStart Solution services—including the Client and all content and features—are provided “as is” and “as available” without warranties of any kind. We do not guarantee uninterrupted use. Except as otherwise stated, NowStart Solution disclaims all express or implied warranties, including merchantability, fitness for a particular purpose, non-infringement, and quiet enjoyment.
+            EasyPrints services—including the Client and all content and features—are provided “as is” and “as available” without warranties of any kind. We do not guarantee uninterrupted use. Except as otherwise stated, EasyPrints disclaims all express or implied warranties, including merchantability, fitness for a particular purpose, non-infringement, and quiet enjoyment.
           </p>
 
           <p>
-            To the fullest extent permitted by law, NowStart Solution, its affiliates, and their employees or licensors will not be liable for any indirect, incidental, punitive, or consequential damages—including lost profits, data loss, or business interruption—even if previously advised of such possibilities.
+            To the fullest extent permitted by law, EasyPrints, its affiliates, and their employees or licensors will not be liable for any indirect, incidental, punitive, or consequential damages—including lost profits, data loss, or business interruption—even if previously advised of such possibilities.
           </p>
 
           <p>
@@ -526,7 +526,7 @@ export default function TermsConditions() {
           </p>
 
           <p>
-            If any part of these Terms is found to be unenforceable or invalid, the remaining provisions will remain in effect. These limitations are essential to the agreement between you and NowStart Solution.
+            If any part of these Terms is found to be unenforceable or invalid, the remaining provisions will remain in effect. These limitations are essential to the agreement between you and EasyPrints.
           </p>
 
           <h2 className="text-2xl font-semibold">Governing Law</h2>
@@ -540,24 +540,24 @@ export default function TermsConditions() {
           </p>
 
           <p>
-            Trademarks: “NowStart Solution” is a registered trademark of NowStart Solution, 14 West Second Street, Suite 108, Upland, CA 91786.
+            Trademarks: “EasyPrints” is a registered trademark of EasyPrints, 14 West Second Street, Suite 108, Upland, CA 91786.
           </p>
 
           <p>
             Patents: Our services may be protected by patents. For details, visit:{" "}
             <a
-              href="https://www.nowstart.co/"
+              href="https://www.easyprintsnow.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 underline"
             >
-              https://www.nowstart.co/
+              https://www.easyprintsnow.com/
             </a>
           </p>
 
           <h2 className="text-2xl font-semibold">DMCA Compliance</h2>
           <p>
-            Under the Digital Millennium Copyright Act (DMCA), if you believe your copyright has been infringed on NowStart Solution’s platform, you may send a takedown notice. Your notice must include:
+            Under the Digital Millennium Copyright Act (DMCA), if you believe your copyright has been infringed on EasyPrints’s platform, you may send a takedown notice. Your notice must include:
           </p>
 
           <ul className="list-disc ml-6 space-y-1">
@@ -576,19 +576,19 @@ export default function TermsConditions() {
         Please read this carefully. It’s important to understand how it affects your rights.
       </p>
       <p className="mb-4">
-        At NowStart Solution, we strive to ensure that our outstanding service team can resolve most issues you may experience while using our services. You can visit our help center for answers to common questions or contact our customer service team for assistance. In the rare event that a problem remains unresolved, we believe in setting clear expectations from the outset to avoid confusion later. Therefore, both you and NowStart Solution agree to the resolution process described below.
+        At EasyPrints, we strive to ensure that our outstanding service team can resolve most issues you may experience while using our services. You can visit our help center for answers to common questions or contact our customer service team for assistance. In the rare event that a problem remains unresolved, we believe in setting clear expectations from the outset to avoid confusion later. Therefore, both you and EasyPrints agree to the resolution process described below.
       </p>
       <p className="mb-4">
-        You and NowStart Solution agree to first attempt to resolve any issue informally for a minimum of 30 days to reach the quickest and most efficient resolution possible. To initiate this, please send an email to NowStart Solution at:
-        NowStart Solution, 14 West Second Street, Suite 108, Upland, CA 91786 — Attn: Legal Department.
-        Be sure to include your full name, contact information, and your proposed resolution. If we need to contact you, we will reach out using the email address associated with your NowStart Solution account.
+        You and EasyPrints agree to first attempt to resolve any issue informally for a minimum of 30 days to reach the quickest and most efficient resolution possible. To initiate this, please send an email to EasyPrints at:
+        EasyPrints, 14 West Second Street, Suite 108, Upland, CA 91786 — Attn: Legal Department.
+        Be sure to include your full name, contact information, and your proposed resolution. If we need to contact you, we will reach out using the email address associated with your EasyPrints account.
       </p>
       <p className="mb-4">
-        If after at least 30 days of informal communication we are unable to come to an agreement, you and NowStart Solution agree to resolve any claim (arising from or related to these terms—including their formation, performance, or breach—our relationship, or your use of the services) through binding arbitration. This arbitration will be conducted by the American Arbitration Association (AAA) under its Consumer Arbitration Rules, which you can access here
+        If after at least 30 days of informal communication we are unable to come to an agreement, you and EasyPrints agree to resolve any claim (arising from or related to these terms—including their formation, performance, or breach—our relationship, or your use of the services) through binding arbitration. This arbitration will be conducted by the American Arbitration Association (AAA) under its Consumer Arbitration Rules, which you can access here
         .
       </p>
       <p className="mb-4">
-        However, NowStart Solution permits you to bring a claim in small claims court as long as you proceed on an individual basis. This is an exception to the arbitration agreement.
+        However, EasyPrints permits you to bring a claim in small claims court as long as you proceed on an individual basis. This is an exception to the arbitration agreement.
       </p>
       <p className="mb-4">
         To ensure a timely resolution, both parties agree that any arbitration must begin within one year from when the claim arises. Any claim not brought within that timeframe will be considered waived. Furthermore, both parties agree to arbitrate only on an individual basis and not to participate in any class actions. Each of us explicitly waives any right to file or participate in a class action or seek relief on a class-wide basis.
@@ -596,7 +596,7 @@ export default function TermsConditions() {
       <p className="mb-4">All arbitration hearings will take place in Upland, California.</p>
       <p className="mb-4">
         You can download or print a form notice and arbitration initiation form at www.adr.org
-        . If you initiate arbitration, your fees will be limited to the filing fee outlined in the AAA's Consumer Arbitration Rules. NowStart Solution will cover all other arbitration-related fees, including your portion of the arbitrator’s compensation, regardless of who initiates the process.
+        . If you initiate arbitration, your fees will be limited to the filing fee outlined in the AAA's Consumer Arbitration Rules. EasyPrints will cover all other arbitration-related fees, including your portion of the arbitrator’s compensation, regardless of who initiates the process.
       </p>
       <p className="mb-4">
         Please note: the arbitrator's decision is final and can be enforced in any court with appropriate jurisdiction.
@@ -614,27 +614,27 @@ export default function TermsConditions() {
 
       <h2 className="text-3xl font-bold mb-6"> Cookies Policy</h2>
       <p className="mb-4">
-        Cookies are small text files stored by your web browser when visiting websites. You can manage how websites use cookies through your browser’s privacy settings (check your browser’s help section for guidance). Please note that fully disabling cookies may impact the functionality of NowStart Solution websites.
+        Cookies are small text files stored by your web browser when visiting websites. You can manage how websites use cookies through your browser’s privacy settings (check your browser’s help section for guidance). Please note that fully disabling cookies may impact the functionality of EasyPrints websites.
       </p>
       <p className="mb-4">
-        NowStart Solution and its business partners use cookies for various purposes, such as:
+        EasyPrints and its business partners use cookies for various purposes, such as:
       </p>
       <ul className="list-disc ml-8 mb-4 space-y-2">
         <li>Verifying your identity on our websites so we can deliver the services you requested</li>
-        <li>Preserving data you've provided, like items in your shopping cart on https://www.nowstart.co</li>
-        <li>Delivering the websites and services you use on NowStart Solution</li>
-        <li>Remembering your preferences or where you left off when using an NowStart Solution website</li>
-        <li>Monitoring how you use NowStart Solution websites to improve them, tailoring the experience to your interests, and conducting market research</li>
-        <li>Identifying your likely interests to show you more relevant NowStart Solution content and ads on non-NowStart Solution websites and apps</li>
-        <li>Managing NowStart Solution tools that help our business customers improve and personalize their apps, websites, and marketing efforts</li>
+        <li>Preserving data you've provided, like items in your shopping cart on https://www.easyprintsnow.com</li>
+        <li>Delivering the websites and services you use on EasyPrints</li>
+        <li>Remembering your preferences or where you left off when using an EasyPrints website</li>
+        <li>Monitoring how you use EasyPrints websites to improve them, tailoring the experience to your interests, and conducting market research</li>
+        <li>Identifying your likely interests to show you more relevant EasyPrints content and ads on non-EasyPrints websites and apps</li>
+        <li>Managing EasyPrints tools that help our business customers improve and personalize their apps, websites, and marketing efforts</li>
       </ul>
 
       <h3 className="text-2xl font-semibold mt-8 mb-4">Technologies Similar to Cookies</h3>
       <p className="mb-4">
-        While HTTP cookies are the most commonly known, there are other similar technologies like HTML5 Local Storage and Local Shared Objects (LSOs). NowStart Solution and the websites hosting its files may use these technologies to verify your identity, store provided information, and remember your settings as described above.
+        While HTTP cookies are the most commonly known, there are other similar technologies like HTML5 Local Storage and Local Shared Objects (LSOs). EasyPrints and the websites hosting its files may use these technologies to verify your identity, store provided information, and remember your settings as described above.
       </p>
       <p className="mb-4">
-        If you're using an NowStart Solution application offline, we may store website usage data on your device, which will be synchronized with our servers once you're back online.
+        If you're using an EasyPrints application offline, we may store website usage data on your device, which will be synchronized with our servers once you're back online.
       </p>
 
       <h3 className="text-2xl font-semibold mt-8 mb-4">Hidden Programs can Web Beacons</h3>
@@ -642,65 +642,65 @@ export default function TermsConditions() {
         We also utilize web beacons and embedded scripts in our emails and advertisements, among other technologies.
       </p>
       <p className="mb-4">
-        Web beacons (or “tags”) are small pieces of code in emails, ads, or web pages that notify NowStart Solution (or the companies assisting us) when these are viewed or clicked.
+        Web beacons (or “tags”) are small pieces of code in emails, ads, or web pages that notify EasyPrints (or the companies assisting us) when these are viewed or clicked.
       </p>
       <p className="mb-4">
-        Embedded scripts are code snippets used in certain web pages to track your interactions (e.g., clicking links). This data helps us improve our websites, tailor content to your interests, and perform market research. You may be able to disable scripting in your browser settings (refer to your browser’s help section), but note that doing so may impact how some NowStart Solution websites function.
+        Embedded scripts are code snippets used in certain web pages to track your interactions (e.g., clicking links). This data helps us improve our websites, tailor content to your interests, and perform market research. You may be able to disable scripting in your browser settings (refer to your browser’s help section), but note that doing so may impact how some EasyPrints websites function.
       </p>
 
-      <h3 className="text-2xl font-semibold mt-8 mb-4">NowStart Solution and social networking</h3>
+      <h3 className="text-2xl font-semibold mt-8 mb-4">EasyPrints and social networking</h3>
       <p className="mb-4">
-        Please be aware that any personal information you share via social networking platforms may be collected, accessed, and used by NowStart Solution and others. The handling of your data on these platforms is governed by the privacy policy of the specific social network.
+        Please be aware that any personal information you share via social networking platforms may be collected, accessed, and used by EasyPrints and others. The handling of your data on these platforms is governed by the privacy policy of the specific social network.
       </p>
       <p className="mb-4">
-        NowStart Solution may collect information about you through social networks in several ways:
+        EasyPrints may collect information about you through social networks in several ways:
       </p>
       <ul className="list-disc ml-8 mb-4 space-y-2">
-        <li>When you sign into an NowStart Solution app or website using your social network account (e.g., Facebook), this may help create your NowStart Solution account</li>
-        <li>When you use an NowStart Solution app on a social network or interact with an NowStart Solution page (e.g., by liking or joining), the platform may share information about you with NowStart Solution. Refer to the social network’s privacy policy for details</li>
-        <li>When you interact with NowStart Solution social content, we may use cookies to track your clicks</li>
-        <li>If your social network profile is public, NowStart Solution may be able to see that information</li>
+        <li>When you sign into an EasyPrints app or website using your social network account (e.g., Facebook), this may help create your EasyPrints account</li>
+        <li>When you use an EasyPrints app on a social network or interact with an EasyPrints page (e.g., by liking or joining), the platform may share information about you with EasyPrints. Refer to the social network’s privacy policy for details</li>
+        <li>When you interact with EasyPrints social content, we may use cookies to track your clicks</li>
+        <li>If your social network profile is public, EasyPrints may be able to see that information</li>
       </ul>
       <p className="mb-4">
-        For privacy policies regarding social networking services you use with NowStart Solution, please review the respective platforms' privacy documentation.
+        For privacy policies regarding social networking services you use with EasyPrints, please review the respective platforms' privacy documentation.
       </p>
 
-      <h3 className="text-2xl font-semibold mt-8 mb-4">Communications from NowStart Solution</h3>
+      <h3 className="text-2xl font-semibold mt-8 mb-4">Communications from EasyPrints</h3>
       <p className="mb-4">
-        We may contact you in different ways—for example, to inform you about new NowStart Solution apps or features we think may interest you.
+        We may contact you in different ways—for example, to inform you about new EasyPrints apps or features we think may interest you.
       </p>
       <h4 className="text-xl font-semibold mt-6 mb-2">Email, Phone, and Mail Marketing</h4>
       <p className="mb-4">
         If you opt to receive marketing communications from us via email, phone, or postal mail, we aim to tailor these messages based on your interests. We track email opens to measure effectiveness and provide personalized product and service suggestions based on your usage.
       </p>
       <p className="mb-4">
-        If you're a business customer who has consented to receive NowStart Solution marketing, we may share your information with our resellers and sales partners. We do not share personal consumer data with third parties for their own marketing use unless we have your explicit consent.
+        If you're a business customer who has consented to receive EasyPrints marketing, we may share your information with our resellers and sales partners. We do not share personal consumer data with third parties for their own marketing use unless we have your explicit consent.
       </p>
 
       <h3 className="text-2xl font-semibold mt-8 mb-4">
-        Tailoring NowStart Solution Apps and Websites to your interests
+        Tailoring EasyPrints Apps and Websites to your interests
       </h3>
       <p className="mb-4">
-        We may present content, promotions, or suggestions on NowStart Solution websites and apps based on your presumed interests.
+        We may present content, promotions, or suggestions on EasyPrints websites and apps based on your presumed interests.
       </p>
       <h4 className="text-xl font-semibold mt-6 mb-2">Interest-Based Advertising</h4>
       <p className="mb-4">
-        NowStart Solution runs online ad campaigns that tailor ads to your interests. We gather insights from your interactions with our apps and websites and may also use data from other companies to better understand your preferences across non-NowStart Solution sites and apps.
+        EasyPrints runs online ad campaigns that tailor ads to your interests. We gather insights from your interactions with our apps and websites and may also use data from other companies to better understand your preferences across non-EasyPrints sites and apps.
       </p>
       <p className="mb-4">
-        These personalized ads (also known as interest-based or behavioral advertising) appear on non-NowStart Solution websites and apps via ad networks that may set their own cookies, web beacons, and identifiers. We and our partners collect data about which NowStart Solution ads you see and interact with, and where they are shown.
+        These personalized ads (also known as interest-based or behavioral advertising) appear on non-EasyPrints websites and apps via ad networks that may set their own cookies, web beacons, and identifiers. We and our partners collect data about which EasyPrints ads you see and interact with, and where they are shown.
       </p>
       <p className="mb-4">
-        Some of these networks also use technologies to recognize users across devices and browsers. This helps us show you personalized ads on other platforms based on how you use NowStart Solution services.
+        Some of these networks also use technologies to recognize users across devices and browsers. This helps us show you personalized ads on other platforms based on how you use EasyPrints services.
       </p>
       <p className="mb-4">
-        If you prefer not to receive interest-based ads outside of NowStart Solution apps, adjust your mobile device settings to limit ad tracking.
+        If you prefer not to receive interest-based ads outside of EasyPrints apps, adjust your mobile device settings to limit ad tracking.
       </p>
       <p className="mb-4">
-        Note that even if you opt out of interest-based ads, you may still see NowStart Solution advertisements elsewhere—but they won’t be personalized based on your interactions with NowStart Solution.
+        Note that even if you opt out of interest-based ads, you may still see EasyPrints advertisements elsewhere—but they won’t be personalized based on your interactions with EasyPrints.
       </p>
       <p className="mb-4">
-        We also run ad campaigns on social networks and other third-party platforms. These ads may be personalized based on user insights, such as identifying customers who may benefit from an NowStart Solution upgrade. They may also use data users have shared directly with the third-party site or app. When we share information for advertising purposes, it is only used to display NowStart Solution ads.
+        We also run ad campaigns on social networks and other third-party platforms. These ads may be personalized based on user insights, such as identifying customers who may benefit from an EasyPrints upgrade. They may also use data users have shared directly with the third-party site or app. When we share information for advertising purposes, it is only used to display EasyPrints ads.
       </p>
       <p>
         To understand how your data is handled on these third-party platforms, please refer to their respective privacy policies.
@@ -714,15 +714,15 @@ export default function TermsConditions() {
         <section className="space-y-4">
           <h2 className="text-2xl font-semibold">Protection of Personal Information</h2>
           <p>
-            NowStart Solution adheres to applicable legal requirements when transferring customer
+            EasyPrints adheres to applicable legal requirements when transferring customer
             personal data across international borders.
           </p>
 
-          <h3 className="text-xl font-semibold">How Does NowStart Solution Transfer Your EU Personal Data?</h3>
+          <h3 className="text-xl font-semibold">How Does EasyPrints Transfer Your EU Personal Data?</h3>
           <p>
-            For individual users and customers whose use of NowStart Solution websites and applications
+            For individual users and customers whose use of EasyPrints websites and applications
             involves the transfer of personal data from the European Economic Area (EEA) or
-            Switzerland to countries outside the EEA, NowStart Solution relies on one or more of the
+            Switzerland to countries outside the EEA, EasyPrints relies on one or more of the
             following legal mechanisms:
           </p>
           <ul className="list-disc list-inside space-y-1">
@@ -732,18 +732,18 @@ export default function TermsConditions() {
             <li>The individual's consent</li>
           </ul>
           <p>
-            NowStart Solution U.S. has confirmed its compliance with the Privacy Shield Principles
+            EasyPrints U.S. has confirmed its compliance with the Privacy Shield Principles
             concerning the transfer of your personal data from the EEA and Switzerland to
-            NowStart Solution websites and applications.
+            EasyPrints websites and applications.
           </p>
           <p>Further details about our Privacy Shield certification can be found below.</p>
 
           <h3 className="text-xl font-semibold">
-            How Does NowStart Solution Transfer EU Personal Data on Behalf of Business Customers?
+            How Does EasyPrints Transfer EU Personal Data on Behalf of Business Customers?
           </h3>
           <p>
-            For business clients whose use of NowStart Solution solutions results in the transfer of
-            personal data from the EEA or Switzerland to non-EEA countries, NowStart Solution relies on:
+            For business clients whose use of EasyPrints solutions results in the transfer of
+            personal data from the EEA or Switzerland to non-EEA countries, EasyPrints relies on:
           </p>
           <ul className="list-disc list-inside space-y-1">
             <li>The EU-U.S. Privacy Shield</li>
@@ -752,29 +752,29 @@ export default function TermsConditions() {
           </ul>
           <p>
             Further information regarding our Privacy Shield certification is provided below.
-            Concerning Standard Contractual Clauses, NowStart Solution has prepared a Data Processing
-            Agreement (DPA) that includes the SCCs. If you are an NowStart Solution business customer and
+            Concerning Standard Contractual Clauses, EasyPrints has prepared a Data Processing
+            Agreement (DPA) that includes the SCCs. If you are an EasyPrints business customer and
             wish to enter into a DPA and SCCs with us, please contact us.
           </p>
 
-          <h3 className="text-xl font-semibold">NowStart Solution Privacy Shield Certification</h3>
+          <h3 className="text-xl font-semibold">EasyPrints Privacy Shield Certification</h3>
           <p>
             The U.S. Department of Commerce has established the EU-U.S. and Swiss-U.S. Privacy
-            Shield Frameworks, to which NowStart Solution U.S. has certified in relation to the transfer
+            Shield Frameworks, to which EasyPrints U.S. has certified in relation to the transfer
             of personal data from the EEA and Switzerland to the U.S.
           </p>
           <p>
             As outlined in our policy, if you are an individual user located outside of North
-            America, your relationship is with NowStart Solution, which acts as the “data controller” of
-            your personal information collected by NowStart Solution. Your personal information may be
-            transferred to NowStart Solution U.S. under our Privacy Shield certification or other legal
+            America, your relationship is with EasyPrints, which acts as the “data controller” of
+            your personal information collected by EasyPrints. Your personal information may be
+            transferred to EasyPrints U.S. under our Privacy Shield certification or other legal
             transfer mechanisms described above.
           </p>
           <p>
             Regarding personal data processed on behalf of our business clients located in the EEA
-            and Switzerland, NowStart Solution typically functions as a "data processor" under EU data
-            protection laws. In delivering services to business clients, NowStart Solution may transfer
-            end-user personal information to NowStart Solution U.S. in accordance with the Standard
+            and Switzerland, EasyPrints typically functions as a "data processor" under EU data
+            protection laws. In delivering services to business clients, EasyPrints may transfer
+            end-user personal information to EasyPrints U.S. in accordance with the Standard
             Contractual Clauses or our Privacy Shield certification.
           </p>
         </section>
@@ -798,7 +798,7 @@ export default function TermsConditions() {
             </li>
             <li>
               A description of the infringing material, along with sufficient detail to locate it on
-              the NowStart Solution website or service (including the URL, if available)
+              the EasyPrints website or service (including the URL, if available)
             </li>
             <li>Your name, address, telephone number, and email address</li>
             <li>
@@ -820,11 +820,11 @@ export default function TermsConditions() {
 
           <p>Send your DMCA claim to our designated copyright agent:</p>
           <p>
-            By mail: support@nowstart.co
+            By mail: support@easyprintsnow.com
             <br />
             By phone: ______________ (to be updated)
             <br />
-            By email: support@nowstart.co
+            By email: support@easyprintsnow.com
           </p>
           <p>
             Note: Submitting a false DMCA claim may result in liability for costs and legal fees. We
@@ -840,14 +840,14 @@ export default function TermsConditions() {
           <p>
             By accessing our sites or using our services, you accept these Terms of Service. By
             clicking “I AGREE,” “I CONSENT,” or any similar form of electronic acceptance, you agree
-            to conduct transactions electronically. Both you and NowStart Solution affirm that electronic
+            to conduct transactions electronically. Both you and EasyPrints affirm that electronic
             signatures carry the same legal weight as handwritten ones concerning these Terms of
             Service and all related electronic records or transactions.
           </p>
           <p>
-            You confirm your intent to transact electronically with NowStart Solution. You may withdraw
+            You confirm your intent to transact electronically with EasyPrints. You may withdraw
             your consent at any time by providing written notice; however, doing so may result in
-            the suspension or termination of your use of NowStart Solution sites or services unless an
+            the suspension or termination of your use of EasyPrints sites or services unless an
             alternative legal method is provided for consent.
           </p>
         </section>
@@ -855,7 +855,7 @@ export default function TermsConditions() {
         <section className="space-y-4 mt-4">
           <h2 className="text-2xl font-semibold">Changes to Terms of Service</h2>
           <p>
-            NowStart Solution reserves the right to revise these Terms of Service, including the Privacy
+            EasyPrints reserves the right to revise these Terms of Service, including the Privacy
             Policy, at any time. Updates become effective immediately and override all previous
             versions—however, for current subscribers, changes will take effect 30 days after
             publication unless otherwise stated.
@@ -870,9 +870,9 @@ export default function TermsConditions() {
         <section className="space-y-4 mt-4">
           <h2 className="text-2xl font-semibold">Communication Preferences</h2>
           <p>
-            By using NowStart Solution services, you agree to receive electronic communications related to
+            By using EasyPrints services, you agree to receive electronic communications related to
             your account. This may include emails sent to the address used during registration,
-            messages posted on the NowStart Solution service, or displayed in your “Your Account” section.
+            messages posted on the EasyPrints service, or displayed in your “Your Account” section.
             These communications may include:
           </p>
           <ul className="list-disc list-inside space-y-1">
@@ -888,7 +888,7 @@ export default function TermsConditions() {
             <li>Calls from our billing team to resolve any subscription-related issues</li>
           </ul>
           <p>
-            All such communications are part of your relationship with NowStart Solution.
+            All such communications are part of your relationship with EasyPrints.
           </p>
           <p>
             You agree that electronic communications fulfill any legal requirement that

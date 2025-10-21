@@ -24,6 +24,12 @@ export default function Hero() {
     return () => clearInterval(counter)
   }, [])
 
+  const openChat = () => {
+    if (typeof window !== "undefined" && window.Tawk_API) {
+      window.Tawk_API.maximize();
+    }
+  };
+
   return (
     <section className="relative min-h-screen overflow-hidden bg-gradient-to-br from-slate-950 via-blue-950 to-slate-900">
       {/* Animated background */}
@@ -60,7 +66,9 @@ export default function Hero() {
 
             {/* CTA Buttons */}
             <div className="flex flex-wrap gap-4">
-              <button className="group px-8 py-4 cursor-pointer rounded-2xl bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 text-white font-bold shadow-2xl shadow-blue-500/50 hover:shadow-cyan-500/50 transition-all hover:scale-105">
+              <button 
+              onClick={openChat}
+              className="group px-8 py-4 cursor-pointer rounded-2xl bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 text-white font-bold shadow-2xl shadow-blue-500/50 hover:shadow-cyan-500/50 transition-all hover:scale-105">
                 <span className="flex items-center gap-2">
                   <Download className="w-5 h-5" />
                   Buy Now

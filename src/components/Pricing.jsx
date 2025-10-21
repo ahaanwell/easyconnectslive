@@ -63,6 +63,12 @@ export default function Pricing() {
     },
   ]
 
+  const openChat = () => {
+    if (typeof window !== "undefined" && window.Tawk_API) {
+      window.Tawk_API.maximize();
+    }
+  };
+
   return (
     <section id="pricing" className="relative py-24 bg-gradient-to-b from-slate-50 via-white to-slate-50 overflow-hidden">
       {/* Animated background */}
@@ -197,7 +203,9 @@ export default function Pricing() {
                   </div>
 
                   {/* CTA Button */}
-                  <button className={`w-full py-4 rounded-xl cursor-pointer font-bold shadow-lg transition-all duration-300 flex items-center justify-center gap-2 group ${
+                  <button 
+                  onClick={openChat}
+                  className={`w-full py-4 rounded-xl cursor-pointer font-bold shadow-lg transition-all duration-300 flex items-center justify-center gap-2 group ${
                     plan.highlight
                       ? `bg-gradient-to-r ${plan.gradient} text-white hover:shadow-xl hover:scale-105`
                       : 'bg-slate-100 text-slate-900 hover:bg-slate-200'

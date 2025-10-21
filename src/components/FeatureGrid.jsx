@@ -55,6 +55,12 @@ export default function FeatureGrid() {
     },
   ]
 
+
+  const openChat = () => {
+    if (typeof window !== "undefined" && window.Tawk_API) {
+      window.Tawk_API.maximize();
+    }
+  };
   return (
     <section id="features" className="relative py-10 bg-gradient-to-b from-slate-50 via-white to-slate-100 overflow-hidden">
       {/* Animated background elements */}
@@ -161,7 +167,9 @@ export default function FeatureGrid() {
                   </div>
 
                   {/* CTA Button */}
-                  <button className={`w-full py-3 px-4 cursor-pointer rounded-xl bg-gradient-to-r ${feature.color} text-white font-semibold shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center gap-2 group/btn`}>
+                  <button 
+                  onClick={openChat}
+                  className={`w-full py-3 px-4 cursor-pointer rounded-xl bg-gradient-to-r ${feature.color} text-white font-semibold shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center gap-2 group/btn`}>
                     <span>Explore Feature</span>
                     <ArrowRight className="w-4 h-4 group-hover/btn:translate-x-1 transition-transform" />
                   </button>

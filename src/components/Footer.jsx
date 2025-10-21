@@ -17,7 +17,7 @@ function Footer(){
             <div className="lg:col-span-1">
               <div className="flex items-center mb-6">
                 
-                <div className="text-2xl font-extrabold bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent ">NOWSTART</div>
+                <div className="text-2xl font-extrabold bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent ">EASYPRINTS</div>
               </div>
               <p className="text-gray-400 mb-6 leading-relaxed">
                 Professional PC optimization softwares for Windows. Clean up, speed up, and protect your computer with our advanced AI-powered tools.
@@ -132,7 +132,7 @@ function Footer(){
                 Support
               </h3>
               <p className='text-white'>
-                support@nowstart.co
+                support@easyprintsnow.com
               </p>
             </div>
           </div>
@@ -141,7 +141,7 @@ function Footer(){
           <div className="border-t border-white/10 pt-4 flex flex-col md:flex-row justify-between items-center">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <p className="text-gray-400 mb-4 md:mb-0 text-center">
-                Copyright © 2025, All Right Reserved. NowStart Solution
+                Copyright © 2025, All Right Reserved. EasyPrints
               </p>
             </div>
           </div>

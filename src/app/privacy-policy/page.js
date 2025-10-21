@@ -51,7 +51,7 @@ export default function PrivacyPolicy() {
             Our policies are designed to protect your rights and ensure a trustworthy, respectful experience.
           </p>
           <p className="mt-4 text-sky-200 max-w-3xl mx-auto text-base sm:text-lg md:text-xl leading-relaxed">
-            NowStart Solution (a wholly owned subsidiary of NowStart Solution) is committed to ensuring your privacy at all times. This Privacy Policy explains how we collect, use, and share information when you use our websites, products, or services.
+            EasyPrints (a wholly owned subsidiary of EasyPrints) is committed to ensuring your privacy at all times. This Privacy Policy explains how we collect, use, and share information when you use our websites, products, or services.
           </p>
         </div>
         <div className="absolute bottom-0 left-0 right-0 h-20 bg-gradient-to-t from-slate-50 to-transparent"></div>
@@ -64,7 +64,7 @@ export default function PrivacyPolicy() {
           {/* Main Section */}
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-6">Privacy Policy Overview</h2>
           <p className="mb-4 leading-relaxed">
-            This Privacy Policy governs the collection of information by NowStart Solution across most of its websites and services, including offline product support. It does not apply to NowStart Solution services that display their own distinct privacy statements. Please read carefully to understand how we gather, safeguard, and use your information.
+            This Privacy Policy governs the collection of information by EasyPrints across most of its websites and services, including offline product support. It does not apply to EasyPrints services that display their own distinct privacy statements. Please read carefully to understand how we gather, safeguard, and use your information.
           </p>
           <p className="mb-4 leading-relaxed">
             Contact us if you have any questions or concerns regarding our policy.
@@ -86,12 +86,12 @@ export default function PrivacyPolicy() {
 
           <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Use of Third-Party Ad Networks and Social Networks</h4>
           <p className="mb-4 leading-relaxed">
-            Some ads may be served by third-party networks that place cookies to deliver targeted ads. NowStart Solution does not control these cookies. Sharing content on social media may also involve cookies controlled by the respective platforms.
+            Some ads may be served by third-party networks that place cookies to deliver targeted ads. EasyPrints does not control these cookies. Sharing content on social media may also involve cookies controlled by the respective platforms.
           </p>
 
           <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Placing Orders</h4>
           <p className="mb-4 leading-relaxed">
-            Paid products are processed by third-party service providers. Billing and payment details (including credit card information) are collected by the provider. Information may be shared with NowStart Solution for order verification, subscription updates, and promotions.
+            Paid products are processed by third-party service providers. Billing and payment details (including credit card information) are collected by the provider. Information may be shared with EasyPrints for order verification, subscription updates, and promotions.
           </p>
 
           <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">News Subscriptions</h4>
@@ -99,7 +99,7 @@ export default function PrivacyPolicy() {
             Subscribers provide email addresses to receive news, updates, and offers. You can manage your subscription or unsubscribe anytime using provided links.
           </p>
 
-          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">NowStart Solution Forum</h4>
+          <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">EasyPrints Forum</h4>
           <p className="mb-4 leading-relaxed">
             Registration may require username, password, email, location, language, and device information.
           </p>
@@ -121,7 +121,7 @@ export default function PrivacyPolicy() {
 
           <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Purpose of Collecting Device Hardware and Software Information</h4>
           <p className="mb-4 leading-relaxed">
-            NowStart Solution collects hardware/software inventory to provide driver downloads and device recommendations. This data helps match optimal updates for systems and refine our intelligence for better recommendations.
+            EasyPrints collects hardware/software inventory to provide driver downloads and device recommendations. This data helps match optimal updates for systems and refine our intelligence for better recommendations.
           </p>
 
           <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">How We Use the Information We Collect</h4>
@@ -131,7 +131,7 @@ export default function PrivacyPolicy() {
 
           <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">How We Protect the Information We Collect</h4>
           <p className="mb-4 leading-relaxed">
-            NowStart Solution implements various security protocols including restricted access, encrypted transmissions (SSL), and responsible password management. Users are encouraged to maintain their account security and log out when sharing devices.
+            EasyPrints implements various security protocols including restricted access, encrypted transmissions (SSL), and responsible password management. Users are encouraged to maintain their account security and log out when sharing devices.
           </p>
 
           <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Controlling Spam</h4>
@@ -161,7 +161,7 @@ export default function PrivacyPolicy() {
 
           <h4 className="text-xl sm:text-2xl font-medium mt-6 mb-2">Contact Information</h4>
           <p className="mb-4 leading-relaxed">
-            For inquiries or concerns about this Privacy Policy or how NowStart Solution handles personal information, please contact us through our website. We will investigate and respond promptly to any reported issues.
+            For inquiries or concerns about this Privacy Policy or how EasyPrints handles personal information, please contact us through our website. We will investigate and respond promptly to any reported issues.
           </p>
         </article>
         </div>
